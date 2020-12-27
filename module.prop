@@ -1,0 +1,6 @@
+id=install_aosp_keyboard
+name=Install gesture typing enabled AOSP keyboard
+version=v1
+versionCode=1
+author=cuehs
+description=Installs the AOSP keyboard and adds google's gesture typing libraries (libjni_latinime.so & libjni_latinimegoogle.so). Please enable gesture typing in the keyboard settings.
