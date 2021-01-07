@@ -5,3 +5,6 @@ Magisk Module
 - checkout all files
 - create *.zip
 - install in magisk manager
+
+
+THIS IS A CHANGE
